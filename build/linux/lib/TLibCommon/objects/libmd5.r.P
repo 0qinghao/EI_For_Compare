@@ -1,5 +1,5 @@
 objects/libmd5.r.o: \
- /mnt/d/Newscan_For_Compare/build/linux/lib/TLibCommon/../../../../source/Lib/libmd5/libmd5.c \
- /mnt/d/Newscan_For_Compare/build/linux/lib/TLibCommon/../../../../source/Lib/libmd5/libmd5.h
- /mnt/d/Newscan_For_Compare/build/linux/lib/TLibCommon/../../../../source/Lib/libmd5/libmd5.c :
- /mnt/d/Newscan_For_Compare/build/linux/lib/TLibCommon/../../../../source/Lib/libmd5/libmd5.h :
+ /mnt/f/EI_For_Compare/build/linux/lib/TLibCommon/../../../../source/Lib/libmd5/libmd5.c \
+ /mnt/f/EI_For_Compare/build/linux/lib/TLibCommon/../../../../source/Lib/libmd5/libmd5.h
+ /mnt/f/EI_For_Compare/build/linux/lib/TLibCommon/../../../../source/Lib/libmd5/libmd5.c :
+ /mnt/f/EI_For_Compare/build/linux/lib/TLibCommon/../../../../source/Lib/libmd5/libmd5.h :
